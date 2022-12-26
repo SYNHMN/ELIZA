@@ -85,11 +85,10 @@ function google(args) {
 ## License
 
 [MIT](https://opensource.org/licenses/MIT)
-[MIT Wikipedia](https://en.wikipedia.org/wiki/MIT_License)
 
 
 ## Preview
 
-![](https://github.com/SYNHMN/ELIZA/preview/master/image/preview-1.jpg?raw=true)
+![](https://raw.githubusercontent.com/SYNHMN/ELIZA/main/preview/Preview-1.png)
 
-![](https://github.com/SYNHMN/ELIZA/preview/master/image/preview-2.jpg?raw=true)
+![](https://raw.githubusercontent.com/SYNHMN/ELIZA/main/preview/Preview-2.png)
