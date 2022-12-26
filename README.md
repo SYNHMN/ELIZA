@@ -63,9 +63,9 @@ The code is Free and Open Source Software (FOSS) under the Massachusetts Institu
 
 ### Search examples
 
-example 1: `google` How old is Harry Styles?
+example 1: `google How old is Harry Styles?`
 
-example 2: `wiki` Mona Lisa
+example 2: `wiki Mona Lisa`
 
 
 ## Add commands
