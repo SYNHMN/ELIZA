@@ -3,10 +3,11 @@ ELIZA 1.0 "MAD-Slip"
 ELIZA is a Modular Search System.
 32KB, versatile, responsive and fast, ELIZA delivers sleek, performant, low overhead code with high order functions that will run on anything.
 
-Eliza is written in vanilla HTML, CSS and JavaScript.
+ELIZA examines the text for keywords, applies values to said keywords, and transformes the input into an output.
+
+ELIZA is written in vanilla HTML, CSS and JavaScript.
 
 The code is Free and Open Source Software (FOSS) under the Massachusetts Institute of Technology (MIT) license.
-
 
 
 ## Commands
