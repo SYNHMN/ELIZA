@@ -7,6 +7,8 @@ ELIZA is written in vanilla HTML, CSS and JavaScript.
 
 The code is Free and Open Source Software (FOSS) under the Massachusetts Institute of Technology (MIT) license.
 
+© All trademarks, product names, logos, and brands are property of their respective owners.
+
 
 ## Commands
 
